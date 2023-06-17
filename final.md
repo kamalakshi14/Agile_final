@@ -62,6 +62,7 @@ Team should always try to improve in skills and processes to grow. The team shou
 -	Feature Driven Development (FDD)
 -	Lean Software Development
 -	Scaled Agile Framework (SAFe)
+  
 In this tutorial we will focus on scrum development methodology.
 
 
