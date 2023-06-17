@@ -65,6 +65,18 @@ Team should always try to improve in skills and processes to grow. The team shou
   
 In this tutorial we will focus on scrum development methodology.
 
+## Scrum 
+One of the popular method of agile is scrum development framework. In which software is delivered in various cycles of development. Scrum methodology breaks projects into small parts as deliverables and each cycle of delivery is called as “Sprints”. Usually, one sprints is approximately 4 weeks. Scrum and agile methods focus on continuous delivery of software. 
+Scrum team includes product owners, scrum master and development team. Development team includes testers, designers, developers and UX specialists. 
+**Product Owner:** 
+Product owner are responsible to understand business, customer and market requirement.  They build and manage product backlog, give team guidance which feature deliver next and decide when to ship product to customer.
+
+**Scrum Master:** 
+Scrum masters coach team, product owners and business about agile processes. Scrum master is facilitator to team who understand work done by team and help them to optimize delivery flow. Scrum master schedules resources for sprint planning, sprint review, sprint retrospective and stand-ups.
+
+**Scrum Development team:**
+Scrum team are best in sustainable development practices. Scrum team normally have five to seven members. They have different skill sets but cross-train so that no one becomes bottleneck in the delivery work. All team members help each other to make sure a successful sprint completion.
+ 
 
 
 
