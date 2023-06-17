@@ -53,15 +53,15 @@ Agile is based on the belief that you need motivated and skilled teams to delive
 Team should always try to improve in skills and processes to grow. The team should have regular reviews on their performance and outcomes, including discussions on improving as they move forward.
 
 
-Types of Agile Framework	
+## Types of Agile Framework	
 -	Kanban
-•	Scrum
-•	Extreme Programming (XP)
-•	Crystal
-•	Dynamic Systems Development Method (DSDM)
-•	Feature Driven Development (FDD)
-•	Lean Software Development
-•	Scaled Agile Framework (SAFe)
+-	Scrum
+-	Extreme Programming (XP)
+-	Crystal
+-	Dynamic Systems Development Method (DSDM)
+-	Feature Driven Development (FDD)
+-	Lean Software Development
+-	Scaled Agile Framework (SAFe)
 In this tutorial we will focus on scrum development methodology.
 
 
