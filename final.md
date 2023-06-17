@@ -4,7 +4,7 @@ Agile word means the ability to change quickly and easily. Agile methodology hel
 Agile methodology has techniques which plan project by dividing into various stages with continuous customer interaction. There is continuous monitoring of each and every step of software development cycle. Advantage of agile over waterfall is that development and testing are parallel and synchronized.
 Agile methodology project management uses four values and 12 principles to organize projects. 
 
-*The four values of the Agile Manifesto are:*
+**The four values of the Agile Manifesto are:**
 1.	We value individuals and interactions over processes and tools
 2.	We value working software over comprehensive documentation
 3.	We value customer collaboration over contract negotiation
