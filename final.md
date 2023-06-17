@@ -110,3 +110,12 @@ In the sprint retrospective meeting conducted and askes themselves what could be
 Approximate time duration of retrospective is 90 minutes. This helps to give important point to be considered in the next sprint. 
 Scrum is very simple to understand. Its agility and continuous feedback make difference than traditional waterfall model. Scrum workflow assists regular team members for changes and speed up project management process. 
 
+## References:
+
+-	https://www.wrike.com/project-management-guide/agile-methodology-basics/
+- https://u-next.com/blogs/product-management/types-of-agile-methodology/
+- https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+- https://www.ifourtechnolab.com/blog/explain-scrum-workflow-a-step-by-step-guide#2     
+-	https://mindmajix.com/scrum-workflow
+- https://openclassrooms.com/en/courses/4544621-learn-about-agile-project-management-and-scrum/5080431-discover-three-different-types-of-agile-project-management-frameworks#:~:text=Scrum%2C%20Kanban%2C%20and%20Extreme%20Programming%20(XP)%20are%20all,principles%20in%20the%20Agile%20Manifesto.
+
