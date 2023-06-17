@@ -16,7 +16,7 @@ Agile projects require an iterative approach, which supports incremental, freque
 ## 12 Principles of Agile Methodology 
 ![image](https://github.com/kamalakshi14/Agile_final/assets/135496842/3ce94b9e-9432-4eed-80e1-d848f68c1dd4)
 
-1.	Customer Satisfaction: 
+**1.	Customer Satisfaction: **
 Our highest priority is to satisfy customers by delivering product early with continuous delivery of software.  This principle states customers should receive deliverables in iterations throughout the projects life cycle instead of single product delivery at the end.
 2.	Welcome changing requirements:
 In traditional project management, it was difficult to incorporate last-minute changes to requirement. This principle states that agile projects can adapt last-minute changes too.
