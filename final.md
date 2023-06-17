@@ -67,7 +67,9 @@ In this tutorial we will focus on scrum development methodology.
 
 ## Scrum 
 One of the popular method of agile is scrum development framework. In which software is delivered in various cycles of development. Scrum methodology breaks projects into small parts as deliverables and each cycle of delivery is called as “Sprints”. Usually, one sprints is approximately 4 weeks. Scrum and agile methods focus on continuous delivery of software. 
+
 Scrum team includes product owners, scrum master and development team. Development team includes testers, designers, developers and UX specialists. 
+
 **Product Owner:** 
 Product owner are responsible to understand business, customer and market requirement.  They build and manage product backlog, give team guidance which feature deliver next and decide when to ship product to customer.
 
@@ -77,6 +79,34 @@ Scrum masters coach team, product owners and business about agile processes. Scr
 **Scrum Development team:**
 Scrum team are best in sustainable development practices. Scrum team normally have five to seven members. They have different skill sets but cross-train so that no one becomes bottleneck in the delivery work. All team members help each other to make sure a successful sprint completion.
  
+## Scrum workflow 
 
+In scrum workflow works on the process of regular customized continuous feedback loops.
+Below diagram shows basic workflow of the Scrum framework.
 
+![image](https://github.com/kamalakshi14/Agile_final/assets/135496842/b3667154-5af2-4cd0-857e-53661a03eb97)
+
+### Product backlog creation    
+Product backlog creation is the first stage of scrum workflow where stakeholders decide list of features should be implemented and developed in product roadmap. Product owner in collaboration with the team decides user stories or requirement of project. In scrum framework, features are known as user stories. Product owner decide which user stories should be kept in product backlog. 
+
+### Sprint Planning 
+Sprint is timeframe where team performs a set tasks from backlog. The average time of sprint one sprint is 2-4 weeks. Each sprint takes set of tasks from product backlog and get ready to release state. A sprint iteration contains subset of tasks from the product backlog is called as sprint backlog. 
+
+### Daily Scrum 
+After sprint planning completed means user stories are selected and the development process starts. Task boards are created for each task or user stories with its description needed for implementation. After code is written it’s tested and finally make it ready to deliver. Daily scrum meeting held to check status of sprint goal and accordingly make changes in sprint plan. Duration of meeting approximately 15 minutes to get correct information about current progress of sprint.
+Everyone in the communicated about the amount of work done and what are challenges they faced to complete user stories. 
+
+### Sprint Review
+After all the user stories completed and sprint backlog is done means sprint is completed. Sprint review is held after sprint completion. In sprint review working software demonstration is done. Customer checks for the acceptance. Based on the customer feedback further changes are incorporated.
+
+### Sprint Retrospective and next sprint planning
+
+In the sprint retrospective meeting conducted and askes themselves what could be done to improve themselves.
+
+- What went wrong?
+- What did not go well?
+- What things should be done to improve in next sprint?
+  
+Approximate time duration of retrospective is 90 minutes. This helps to give important point to be considered in the next sprint. 
+Scrum is very simple to understand. Its agility and continuous feedback make difference than traditional waterfall model. Scrum workflow assists regular team members for changes and speed up project management process. 
 
