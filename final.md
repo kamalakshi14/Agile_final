@@ -10,4 +10,7 @@ Agile methodology project management uses four values and 12 principles to organ
 3.	We value customer collaboration over contract negotiation
 4.	We value responding to change over following a plan
 
+The Agile method works in iterations or sprints of project planning and execution which enables you to continuously adapt your plan, design and scope throughout the project. 
+Agile projects require an iterative approach, which supports incremental, frequent, and constant delivery of working software products to your customer. This approach ensures your project team can consistently deliver products without being delayed by changes and evolving requirements.
 
+## 12 Principles of Agile Methodology 
