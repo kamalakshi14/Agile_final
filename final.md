@@ -16,27 +16,38 @@ Agile projects require an iterative approach, which supports incremental, freque
 ## 12 Principles of Agile Methodology 
 ![image](https://github.com/kamalakshi14/Agile_final/assets/135496842/3ce94b9e-9432-4eed-80e1-d848f68c1dd4)
 
-**1.	Customer Satisfaction: **
+**1.	Customer Satisfaction:**
 Our highest priority is to satisfy customers by delivering product early with continuous delivery of software.  This principle states customers should receive deliverables in iterations throughout the projects life cycle instead of single product delivery at the end.
-2.	Welcome changing requirements:
+
+**2.	Welcome changing requirements:**
 In traditional project management, it was difficult to incorporate last-minute changes to requirement. This principle states that agile projects can adapt last-minute changes too.
-3.	Deliver working software frequently:
+
+**3.	Deliver working software frequently:**
 Agile project plan for short period timeline to deliver faster. Teams break whole project into small parts called sprints, each ending with working part of software. Usually, sprints are four week long timeline.
-4.	Collaborate Daily: 
+
+**4.	Collaborate Daily:**
 This agile principle states business people work together with development team daily throughout the project. This involves short daily meetings of stakeholders and development team.
-5.	Motivated individuals: 
+
+**5.	Motivated individuals:**
 Agile project management methodology believes that right people should be placed in the right positions. They should be given autonomy to do their job well. The project manager should focus on keep team members motivated than micromanaging them.
-6.	Face to face conversation: 
+
+**6.	Face to face conversation:**
 The most effective method to convey information to and within team is face-to-face conversation. Agile project management methodology promotes face to face conversations rather than phone or email.  
-7.	Working software matters: 
+
+**7.	Working software matters:**
 Working software is the primary measure of progress.  Agile methodology focus on to provide complete and working software.
-8.	Constant pace 
+
+**8.	Constant pace:**
 This principle states that agile projects should have a consistent pace for each iterative cycle or sprint within the project. Agile processes promotes sustainable development. 
-9.	High quality code faster: 
+
+**9.	High quality code faster:**
 Agile project focus should be on improving end product constantly over time. There should be continuous attention to technical excellence. Each iteration must be improved than previous one, and team should always work to improve it.
-10.	Maximizing the amount of work not done:
+
+**10.	Maximizing the amount of work not done:**
 Simplicity is the art of maximizing the work not done. This idea is central to eliminating waste. To make your process more agile, do less, focus on high priority items. Any additional documentation, processes or steps that does not add value to the customer or refine the project outputs should be avoided.
-11.	Self-organizing team deliver quality:
+
+**11.	Self-organizing team deliver quality:**
 Agile is based on the belief that you need motivated and skilled teams to deliver the best results and products. Teams should be empowered to organize themselves as required. They should have the freedom to collaborate and innovate as the way they can without any oversight.
-12.	Feedback loops used to improve:  
+
+**12.	Feedback loops used to improve:** 
 Team should always try to improve in skills and processes to grow. The team should have regular reviews on their performance and outcomes, including discussions on improving as they move forward.
